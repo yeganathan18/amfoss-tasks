@@ -15,8 +15,8 @@ This is Yeganathan, fresher at Amrita School of Engineering (CSE 2020).
 | <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-02">Task-02</a> | Registration of nickname in IRC Freenode |
 | <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-03">Task-03</a> | Hackerrank Problems                      |
 | <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-04">Task-04</a> | Debugging Java                           |
-| <a href="">Task-06</a>                                                             | Geddit (Almost done)                     |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-07">Task-07</a> | Flutter UI Design                        |
+| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-06">Task-06</a> | Geddit                                   |
+| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-07">Task-07</a> | Flutter UI Design (Almost done)          |
 | <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-08">Task-08</a> | Sir Perceval’s quest                     |
 | <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-09">Task-09</a> | Spammer Using JavaScript                 |
 | <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-10">Task-10</a> | CS50                                     |
