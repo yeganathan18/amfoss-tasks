@@ -6,7 +6,7 @@
 
 * Performed a search for subreddits using ‘memes’ as the search query.
 
-* Picked the subreddit that occurs as the first search result.
+* Picked the required subreddit using a function(GET) since that occurs as the first search result by default.
 
 * Using that, successfully upvoted posts posted in the last week (limited to 100 posts at max) 
 
