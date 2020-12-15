@@ -10,23 +10,23 @@ This is Yeganathan, fresher at Amrita School of Engineering (CSE 2020).
 
 | Task | Description |
 | --- | --- |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-00">Task-00</a> | macOS so no installation part!           |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-01">Task-01</a> | Script to star all repos of amfoss       |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-02">Task-02</a> | Registration of nickname in IRC Freenode |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-03">Task-03</a> | Hackerrank Problems                      |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-04">Task-04</a> | Debugging Java                           |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-06">Task-06</a> | Geddit                                   |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-07">Task-07</a> | Flutter UI Design (Almost done)          |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-09">Task-09</a> | Spammer Using JavaScript                 |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-10">Task-10</a> | CS50                                     |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-11">Task-11</a> | Poster Design                            |
-| <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-14">Task-14</a> | Bandit Wargame                           |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-00">Task-00</a> | macOS so no installation part!           |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-01">Task-01</a> | Script to star all repos of amfoss       |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-02">Task-02</a> | Registration of nickname in IRC Freenode |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-03">Task-03</a> | Hackerrank Problems                      |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-04">Task-04</a> | Debugging Java                           |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-06">Task-06</a> | Geddit                                   |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-07">Task-07</a> | Flutter UI Design (Almost done)          |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-09">Task-09</a> | Spammer Using JavaScript                 |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-10">Task-10</a> | CS50                                     |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-11">Task-11</a> | Poster Design                            |
+| <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-14">Task-14</a> | Bandit Wargame                           |
 
 
  | Task | Description (pending) |
  | --- | --- |
  | <a href="#">Task-05</a> | Rustic Scraper |
- | <a href="https://github.com/yeganathan/amfoss-tasks/tree/main/task-08">Task-08</a> | Sir Perceval’s quest |
+ | <a href="https://github.com/yeganathan18/amfoss-tasks/tree/main/task-08">Task-08</a> | Sir Perceval’s quest |
  | <a href="#">Task-12</a> | Codechef problem |
  | <a href="#">Task-13</a> | Circuit Design |
  | <a href="#">Task-15</a> | Project Euler |
